@@ -1,5 +1,5 @@
 # aks deploymen
-#update 4.0
+#update 5.0
 apiVersion: apps/v1
 kind: Deployment
 metadata:
